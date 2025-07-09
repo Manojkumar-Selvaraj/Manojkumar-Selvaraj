@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manojkumar-Selvaraj
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning Html, CSS and Javascript
-- 💞️ I’m looking to collaborate on front end Developer Mentor
+- 👀 I’m interested in Flutter Developer
+- 🌱 I’m currently learning Dart and Flutter framework
+- 💞️ I’m looking to collaborate on Flutter Developer Mentor
 - 📫 How to reach me manojkumarvkp@yahoo.com
 
 <!---
